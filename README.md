@@ -2,7 +2,7 @@
 Mini task — build a script that reads a folder of images, converts to grayscale, resizes, and saves the output batch.
 
 In this Week-1 Main Task: The Folder structure is as follows-
-
+```
 Week_1/
 │
 ├── input_images/
@@ -30,6 +30,7 @@ Week_1/
 │
 └── UndoImageProcess.py
     └── Program for reversing or restoring the image-processing operation.
+```
 
 Follow this document structure and simply run the programs in the terminal:
   bash: python <file_name>
