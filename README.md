@@ -31,7 +31,14 @@ Week_1/
 └── UndoImageProcess.py
     └── Program for reversing or restoring the image-processing operation.
 ```
+Open a new terminal in the project folder and install the required libraries:
 
-Follow this document structure and simply run the programs in the terminal:
-  bash: python <file_name>
+```bash:
+pip install opencv-python
+pip install numpy
+```
+Follow this document structure and run the programs in the terminal:
+```bash:
+python <file_name>
+```
 In the <file_name>, enter the required file name of the program you want to run.
